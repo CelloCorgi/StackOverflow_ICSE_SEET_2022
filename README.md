@@ -24,8 +24,8 @@ COMING SOON
 
 ## Repository Contents
 
-* Stimuli: Contains the programming bugs used as stimuli in our experiment
+* Stimuli: Contains images of the programming bugs used as stimuli in our experiment (text versions of the stimuli are in the Survey Instrument if needed)
 * Analysis: Includes both details regarding the manual annotation process and our analysis scripts
 * Survey Instrument: Contains word and qualtrics versions of the survey instrument used to show the stimuli to participants
-* Recruitment: Contains our consent form, prescreeing survey, and recruitment posts
+* Recruitment: Contains our consent form and prescreeing survey
 
