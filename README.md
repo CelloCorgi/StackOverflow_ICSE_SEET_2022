@@ -1,4 +1,4 @@
-# Debugging with Stack Overflow: ICSE SEET, 2022
+# Debugging with Stack Overflow: (ICSE SEET)[https://conf.researchr.org/track/icse-2022/icse-2022-seet#event-overview], 2022
 
 This is the GitHub repository associated with the 2022 ICSE SEET paper, _Debugging with Stack Overflow: Web Search Behavior in Novice and Expert Programmers_
 
@@ -24,8 +24,8 @@ COMING SOON
 
 ## Repository Contents
 
-* Stimuli: Contains images of the programming bugs used as stimuli in our experiment (text versions of the stimuli are in the Survey Instrument if needed)
-* Analysis: Includes both details regarding the manual annotation process and our analysis scripts
-* Survey Instrument: Contains word and qualtrics versions of the survey instrument used to show the stimuli to participants
-* Recruitment: Contains our consent form and prescreeing survey
+* (Stimuli)[https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Stimuli]: Contains images of the programming bugs used as stimuli in our experiment (text versions of the stimuli are in the Survey Instrument if needed)
+* (Analysis)[https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Analysis]: Includes both details regarding the manual annotation process and our analysis scripts
+* (Survey Instrument)[https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/SurveyInstrument]: Contains word and qualtrics versions of the survey instrument used to show the stimuli to participants
+* (Recruitment)[https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Recruitment]: Contains our consent form and prescreening survey
 
