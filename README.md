@@ -1,6 +1,6 @@
-# Debugging with Stack Overflow: [ICSE SEET](https://conf.researchr.org/track/icse-2022/icse-2022-seet#event-overview), 2022
+# Debugging with Stack Overflow: ICSE SEET, 2022
 
-This is the GitHub repository associated with the 2022 ICSE SEET paper, _Debugging with Stack Overflow: Web Search Behavior in Novice and Expert Programmers_
+This is the GitHub repository associated with the 2022 [ICSE SEET](https://conf.researchr.org/track/icse-2022/icse-2022-seet#event-overview) paper, _Debugging with Stack Overflow: Web Search Behavior in Novice and Expert Programmers_
 
 ## Abstract
 
