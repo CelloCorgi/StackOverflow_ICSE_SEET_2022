@@ -25,7 +25,7 @@ COMING SOON
 ## Repository Contents
 
 * [Stimuli](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Stimuli): Contains images of the programming bugs used as stimuli in our experiment (text versions of the stimuli are in the Survey Instrument if needed)
-* [Analysis](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Analysis): Includes both details regarding the manual annotation process and our analysis scripts
+* [Analysis](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Analysis): Includes both details regarding the manual annotation process and our analysis scripts. We note that our spread sheet for "ground truth" annotations was originally done on google drive, and is thus more readable on that platform. The google drive version can be found [here](https://docs.google.com/spreadsheets/d/1BZy1nMYC4jgJclLBDBjeOGK26oRYcPItZQZlSQWFIh8/edit?usp=sharing).
 * [Survey Instrument](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/SurveyInstrument): Contains word and qualtrics versions of the survey instrument used to show the stimuli to participants
 * [Recruitment](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Recruitment): Contains our consent form and prescreening survey
 
