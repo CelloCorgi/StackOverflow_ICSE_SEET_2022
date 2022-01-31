@@ -16,11 +16,7 @@ We help fill these knowledge gaps with the results of a study of 40 programmers 
 
 ## Paper Link
 
-COMING SOON
-
-## Paper Citation
-
-COMING SOON
+The paper pdf can be found [here](http://www-personal.umich.edu/~endremad/papers/SODebug2022.pdf)
 
 ## Repository Contents
 
@@ -29,3 +25,17 @@ COMING SOON
 * [Survey Instrument](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/SurveyInstrument): Contains word and qualtrics versions of the survey instrument used to show the stimuli to participants
 * [Recruitment](https://github.com/CelloCorgi/StackOverflow_ICSE_SEET_2022/tree/main/Recruitment): Contains our consent form and prescreening survey
 
+## Paper Citation
+```
+@inproceedings{Li2022DebuggingWith,
+  author    = {Annie Li and
+               Madeline Endres and
+               Westley Weimer},
+  title     = {Debugging with Stack Overflow: Web Search Behavior in Novice and Expert Programmers},
+  booktitle = {To appear in the 44nd International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '22)},
+  publisher = {{ACM}},
+  year      = {2022},
+  url       = {https://doi.org/10.1145/3510456.3514147},
+  doi       = {10.1145/3510456.3514147}
+}
+```
